@@ -2,7 +2,7 @@ import {
   Button,
 } from 'shared/ui'
 
-const HomePage = () => {
+const EditorPage = () => {
    
   return (
     <div>
@@ -14,4 +14,4 @@ const HomePage = () => {
   )
 }
 
-export default HomePage
+export default EditorPage
