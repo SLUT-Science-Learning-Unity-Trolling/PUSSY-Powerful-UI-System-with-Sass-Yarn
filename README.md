@@ -1,1 +1,1 @@
-# PUSSY-Powerful-UI-System-with-Sass-Yarn
+# Powerful-UI-System-with-Sass-and-Yarn
