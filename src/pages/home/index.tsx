@@ -1,15 +1,10 @@
-import {
-  Button,
-} from 'shared/ui'
+//import { Button } from 'shared/ui'
+import styles from './home.module.scss';
 
 const HomePage = () => {
-   
   return (
-    <div>
+    <div className={styles.container}>
       Домашняя страница
-      <>
-        <Button onClick={() => {}} label="привет мир!" variant="light" />
-      </>
     </div>
   )
 }
